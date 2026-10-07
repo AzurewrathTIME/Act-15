@@ -1,0 +1,5 @@
+Pedro|45|Programacion
+Laura|38|Matematicas
+Jorge|50|Bases de Datos
+Elena|42|Redes
+Miguel|47|Sistemas Operativos

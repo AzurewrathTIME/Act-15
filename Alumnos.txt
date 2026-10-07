@@ -1,0 +1,5 @@
+Ana|20|A001
+Luis|22|A002
+Maria|19|A003
+Carlos|21|A004
+Sofia|23|A005
